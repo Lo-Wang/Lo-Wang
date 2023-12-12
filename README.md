@@ -11,7 +11,7 @@
 
 💬 Ask me about **C#, Manim, Math... or anything [here](https://github.com/Lo-Wang/Lo-Wang/issues/1)**
 
-⚡ Fun fact **Statistics from private repositories are not taken into account in the graphs below**
+⚡ Fun fact **Statistics on languages are displayed incorrectly from private repositories**
 
  </div>
 
