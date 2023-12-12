@@ -40,15 +40,15 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-Wang&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-Wang&include_repo=https://github.com/Lo-Wang/VisualMath&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=Lo-wang&theme=tokyonight"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Lo-wang&include_repo=https://github.com/Lo-Wang/VisualMath&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Lo-Wang&show_icons=true&theme=tokyonight"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Lo-Wang&include_repo=https://github.com/Lo-Wang/VisualMath&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
