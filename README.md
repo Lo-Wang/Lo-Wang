@@ -17,7 +17,7 @@
 
 #
 
-<h1 align="center"> Languege and tools</h1>
+<h1 align="center"> Language and tools</h1>
 
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B)
 ![Static Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
